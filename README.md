@@ -2,7 +2,7 @@
 My pomodoro productivity tool made in python
 
 Requires:
-  - ffmpeg (apt install ffmpeg/ pacman -S ffmpeg)
+  - ffmpeg
   - pydub
 
 from /path/to/pomodoro:

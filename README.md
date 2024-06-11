@@ -58,7 +58,11 @@ That should be all. Let me know if there are any issues and I will make certain 
 
 TODO: 
 add automated installation script
+
 add command line args for different times (work and break)
-ex: pomodoro --work 25 --break 5
+
+eg: pomodoro --work 25 --break 5
+
 this will allow pomodoro to be more dynamic
+
 allow for a modular alarm sound

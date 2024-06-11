@@ -7,7 +7,7 @@ import sys
 from pydub import AudioSegment
 from pydub.playback import play
 
-alarm = AudioSegment.from_wav("./[ONTIVA.COM] complete sound effect free -HQ.wav")
+alarm = AudioSegment.from_wav("/home/rylee/coding/python/pomodoro/[ONTIVA.COM] complete sound effect free -HQ.wav")
 
 
 parser = argparse.ArgumentParser()
